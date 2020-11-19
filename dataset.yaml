@@ -508,3 +508,9 @@
   name: AdsBot-Google
   type: full
   category: crawler
+
+- label: DeepCrawl
+  name: DeepCrawl
+  type: full
+  category: crawler
+  
