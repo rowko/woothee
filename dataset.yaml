@@ -510,6 +510,6 @@
   category: crawler
 
 - label: DeepCrawl
-  name: AdsBot-Google
+  name: DeepCrawl
   type: full
   category: crawler
