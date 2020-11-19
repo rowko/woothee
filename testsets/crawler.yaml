@@ -245,3 +245,9 @@
   name: trendiction
   os: UNKNOWN
   category: crawler
+
+# DeepCrawl
+- target: 'DeepCrawl: [“deepcrawl https://deepcrawl.com/bot”]'
+  name: DeepCrawl
+  os: UNKNOWN
+  category: crawler
